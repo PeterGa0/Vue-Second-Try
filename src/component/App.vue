@@ -1,6 +1,8 @@
 <template>
     <div>
-        test
+        公共头
+        <router-view></router-view>
+        公共底 
     </div>
 </template>
 
